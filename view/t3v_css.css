@@ -1,0 +1,148 @@
+/*ロゴ*/
+        body{
+            margin: 0 auto;
+                font-family: Times New Roman;
+        }
+        
+        
+    header{
+        background-color:#a5dff9;
+        padding-top: 10px;
+        height: 60px;
+    }
+                
+        .header_flam{
+             margin-left : auto ;
+             margin-right : auto ;
+             width: 960px;
+        }
+        
+        .header_left{
+            float: left;
+            display:block;
+            padding-left: 10px;
+        }
+        
+        .header_right{
+            float:right;
+            display: flex;
+        }
+        
+        .user_name{
+                        color: blue;
+            margin-top: 20px;
+        }
+        
+        .logout{
+            margin-top: 19px;
+            color: blue;
+            margin-top: 20px;
+            
+        }
+        
+
+
+        .cart{
+            float: right;
+            display: block;
+            width: 50px;
+            height: 50px;
+            background-repeat: no-repeat;
+        }
+        
+        #cart_logo{
+            width: 45px;
+        }
+
+/* ----------------------------------     */ 
+
+
+
+/*ショッピングサイト*/
+  body{
+            margin: 0 auto;
+                font-family: Times New Roman;
+        }
+        
+        .flex {
+                  margin-left : auto ;
+             margin-right : auto ;
+             width: 960px;
+        }
+        .flex .menu {
+            border: solid 1px;
+            width: 130px;
+            height:170px;
+            text-align: center;
+            margin: 10px;
+            float: left; 
+
+        }
+        .flex span {
+            display: block;
+            margin: 3px;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+        
+    .item_list{
+        float: left;
+        text-align: center;
+        margin-top: 30px;
+         padding-top: 30px;
+        padding-bottom: 30px;
+        width: 280px;
+        margin-left: 20px;
+        margin-right: 20px;
+        background-color:#d6ecfa;
+        border-radius: 100%;
+        font-weight: 900;
+           
+        }
+        
+    .btn,.sold-out{
+        margin-top: 2px;
+        margin-bottom: 2px;
+    }
+/* ----------------------------------     */ 
+
+/*商品管理サイト*/
+        table,tr, th, td {
+            border: solid 1px;
+            padding: 10px;
+            text-align: center;
+        }
+        #form_btn{
+            margin-left:10px;
+        }
+        .status_false{
+            background-color:#a3a1a1;
+        }
+        
+        header{
+            border-bottom:1px solid #664433
+        }
+        
+        .new_item{
+        display: block;
+        padding-bottom: 33px;
+        border-bottom:1px solid #664433
+        }
+/* ----------------------------------     */     
+
+/*ユーザー管理ページ*/
+        table,tr, th, td {
+            border: solid 1px;
+            padding: 10px;
+            text-align: center;
+        }
+        #form_btn{
+            margin-left:10px;
+        }
+        .status_false{
+            background-color:#a3a1a1;
+        }
+/* ----------------------------------     */     
+
+    
